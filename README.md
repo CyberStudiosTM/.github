@@ -6,6 +6,11 @@
 
 ☁️　🎀　🖥️　💿　✧
 
+[![Website](https://img.shields.io/badge/Website-CyberStudios%20Wiki-C6B6F3?style=for-the-badge)](https://cyberthreed.github.io/CyberStudios/)
+[![Discord](https://img.shields.io/badge/Discord-CyberSpace-AED8F5?style=for-the-badge&logo=discord&logoColor=202842)](https://cyberspacelink.carrd.co)
+[![Byte.exe](https://img.shields.io/badge/Byte.exe-v1.0.0-A8E8DC?style=for-the-badge)](https://cyberthreed.github.io/CyberStudios/byte/)
+[![Projects](https://img.shields.io/badge/Projects-10%2B-F4C8EA?style=for-the-badge)](https://github.com/orgs/CyberStudiosTM/repositories)
+
 **An independent creative technology studio exploring the intersection of software, gaming, digital art, and interactive experiences.**
 
 [Website](https://cyberthreed.github.io/CyberStudios/) · [Projects](https://github.com/orgs/CyberStudiosTM/repositories) · [Releases](https://github.com/cyberthreed/CyberStudios/releases)
